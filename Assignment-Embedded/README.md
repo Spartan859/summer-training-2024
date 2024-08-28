@@ -86,5 +86,6 @@ build/
   - 要求：使用排母和排针，引出ST-Link使用的3v3，gnd，swclk，swdio。
 
 - 另存为工程为epro文件，不要设置密码。
+![image-20240828123910571](https://github.com/user-attachments/assets/d0757425-3a98-4f35-be74-a9f7dd5f8889)
 
 - 例：上传到Assignment-Embedded/李翔宇_硬件部/stm32_basic_extender.epro
