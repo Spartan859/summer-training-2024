@@ -16,7 +16,7 @@
 - 创建serialTest工程，使用串口实现A+B problem，即串口输入空格分隔的整数a，b，在同一个串口输出a+b的结果。
 - 推荐使用在线串口调试助手https://itldg.github.io/web-serial-debug/（翻墙困难则用https://www.itldg.com/web_serial_debug/）
 - 例：上传到Assignment-Embedded/李翔宇_硬件部/serailTest
-- **重要！！！**请确认serialTest文件夹下有.gitignore文件，并写入了正确的内容。如果没有，请自行创建，并写入以下内容
+- **重要！！！** 请确认serialTest文件夹下有.gitignore文件，并写入了正确的内容。如果没有，请自行创建，并写入以下内容
 
 ```
 # Prerequisites
