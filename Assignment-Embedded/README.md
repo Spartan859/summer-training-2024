@@ -79,7 +79,7 @@ build/
 
 # 第二讲作业
 
-- 观看https://cloud.tsinghua.edu.cn/d/79c394f05d4b425bb34c/files/?p=%2F%E8%AF%BE%E7%A8%8B%E5%86%85%E5%AE%B9%2F%E7%A1%AC%E4%BB%B6_PCB%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B_%E5%9F%BA%E4%BA%8E%E7%AB%8B%E5%88%9BEDA.mp4
+- 观看[第二讲：PCB设计基础-基于立创EDA](https://cloud.tsinghua.edu.cn/d/79c394f05d4b425bb34c/files/?p=%2F%E8%AF%BE%E7%A8%8B%E5%86%85%E5%AE%B9%2F%E7%A1%AC%E4%BB%B6_PCB%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B_%E5%9F%BA%E4%BA%8E%E7%AB%8B%E5%88%9BEDA.mp4)
 
 - 学习[立创EDA](https://pro.lceda.cn/)的基本操作，找到自己手里的stm32板子的资料（包括原理图和规格尺寸），绘制一块最基础的“扩展板”。
 
